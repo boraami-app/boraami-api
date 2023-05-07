@@ -1,0 +1,15 @@
+{
+  "name": "boraami-api",
+  "version": "1.0.0",
+  "description": "Boraami NodeJS API for Web & Mobile apps",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  }
+}
