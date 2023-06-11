@@ -1,6 +1,4 @@
-const favoriteFruits: string[] = ["apple", "strawberry", "orange"];
-
-function addFruit(fruit: string) {  favoriteFruits.push(fruit); console.log(favoriteFruits);
-}
+import { addFruit } from "./testingImports.js";
 
 addFruit("kiwi");
+
