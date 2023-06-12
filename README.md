@@ -8,4 +8,4 @@ Commands:
         npm run build
         npm run start
 
-You can run `npm run build-watch` in a separate terminal will compile typescript files everytime there is a change. This is helpful during development.
+You can run `npm run build-watch` using ts-node in a separate terminal will compile typescript files everytime there is a change. This is helpful during development.
